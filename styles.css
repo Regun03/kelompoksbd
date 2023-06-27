@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1,
+h2 {
+  color: #333;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="date"],
+input[type="time"],
+input[type="number"],
+select {
+  padding: 5px;
+  width: 200px;
+}
+
+input[type="submit"] {
+  padding: 10px 20px;
+  background-color: #333;
+}
